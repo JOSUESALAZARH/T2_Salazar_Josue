@@ -50,3 +50,21 @@ preparar, retirar, restaurar y confirmar selectivamente los cambios
 
 realizados en el proyecto.
 
+
+
+\## Gestión de ramas
+
+
+
+\- \*\*Rama utilizada:\*\* `feature-salazar`
+
+\- \*\*Cambio realizado:\*\* creación de la clase `ControlVersion\_Salazar.java`.
+
+
+
+La funcionalidad fue desarrollada de manera independiente en la rama
+
+`feature-salazar` para demostrar el flujo de ramificación e integración
+
+mediante Git.
+
