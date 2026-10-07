@@ -36,3 +36,17 @@ Lenguaje de Programación II y demuestra la preparación y configuración inicia
 
 de un proyecto Maven bajo control de versiones con Git.
 
+
+
+\## Control de cambios
+
+
+
+Durante esta actividad se gestionaron modificaciones simultáneas en el
+
+Working Directory y el Staging Area, aplicando comandos de Git para
+
+preparar, retirar, restaurar y confirmar selectivamente los cambios
+
+realizados en el proyecto.
+

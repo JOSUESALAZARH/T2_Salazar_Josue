@@ -1,0 +1,8 @@
+Evaluacion 02 - Lenguaje de Programacion II
+
+Estudiante: Josue Salazar
+
+Observacion:
+Durante la evaluacion se aplico control selectivo de cambios con Git,
+diferenciando correctamente el Working Directory, el Staging Area
+y el repositorio local.
