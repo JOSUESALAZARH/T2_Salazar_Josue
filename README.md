@@ -24,3 +24,15 @@ prácticamente el control de versiones mediante Git, permitiendo gestionar
 
 archivos, estados y commits de manera ordenada y trazable.
 
+
+
+\## Evidencia T2
+
+
+
+Este repositorio constituye evidencia práctica de la Evaluación 02 del curso
+
+Lenguaje de Programación II y demuestra la preparación y configuración inicial
+
+de un proyecto Maven bajo control de versiones con Git.
+
